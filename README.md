@@ -5,7 +5,7 @@
 🔭 I’m currently working on **Machine Learning & Full-Stack Projects**  
 🌱 I’m currently learning **Deep Learning, Flask & React.js**  
 💬 Ask me about **Python, Data Science, AI, and Web Development**  
-📫 How to reach me: [ayush2932005@email.com](mailto:ayush2932005@email.com)  
+📫 How to reach me: [ayush2932005@gmail.com](mailto:ayush2932005@gmail.com)  
 ⚡ Fun fact: I love **anime & tech!**  
 
 ## 🚀 Connect with me:
